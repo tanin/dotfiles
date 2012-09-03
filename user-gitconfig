@@ -1,7 +1,7 @@
 [user]
-	name = CHANGE
-	email = CHANGE
+	name = Daniel Lurie
+	email = daniel@astrails.com
 [github]
-	user = CHANGE
+	user = tanin
 [heroku]
-	account = CHANGE
+	account = daniel
