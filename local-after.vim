@@ -1,6 +1,6 @@
 "set guifont=Inconsolata-dz\ for\ Powerline:h16
 "set guifont=Monaco:h16
-set guifont=Mensch\ Regular\ for\ Powerline:h16
+set guifont=Mensch\ Regular\ for\ Powerline:h14
 let g:Powerline_symbols = 'fancy'
 "let g:Powerline_symbols = 'compatible'
 
